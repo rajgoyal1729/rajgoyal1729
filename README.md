@@ -13,7 +13,7 @@
 " target="blank"><img align="center" src="./img/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/raajjgvluq
 " height="30" width="40" /></a>
 
-<a href="https://codeforces.com/profile/raajj.goyal" target="blank"><img align="center" src="./img/Social/codeforces.svg" alt="https://codeforces.com/profile/raajj.goyal" height="30" width="40" /></a>
+<a href="https://www.interviewbit.com/profile/131-raj-goyal/" target="blank"><img align="center" src="./img/Social/codeforces.svg" alt="https://www.interviewbit.com/profile/131-raj-goyal/" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
